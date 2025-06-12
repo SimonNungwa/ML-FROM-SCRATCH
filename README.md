@@ -1,4 +1,5 @@
 # ML-FROM-SCRATCH
 Implement machine learning models from scratch without libraries
-## implemented
+## Implemented
 - Regression: Linear regression, Logistic regression
+-Classification: K Nearest Neighour
